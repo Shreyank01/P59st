@@ -1,0 +1,16 @@
+body {
+    text-align: center
+}
+#story {
+  background:linear-gradient(180deg , #25cffa ,#ffffff , #25cffa );
+}
+#P2 {
+    font-size: 20px;
+    font-family: cursive;
+}
+#img {
+    width: 150px;
+}
+#img2 {
+    width: 250px;
+}
